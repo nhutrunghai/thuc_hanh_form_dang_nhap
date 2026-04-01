@@ -1,8 +1,12 @@
 # Thực hành form đăng nhập
 
-- Họ và tên: Nhữ Trung Hải
-- MSV: 23810310247
-- Tên bài thực hành: Thực hành form đăng nhập
+## HỌ VÀ TÊN: **NHỮ TRUNG HẢI**
+
+## MSV: **23810310247**
+
+## Tên bài thực hành
+
+**Thực hành form đăng nhập**
 
 ## Mô tả
 
